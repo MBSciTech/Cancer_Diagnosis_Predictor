@@ -1,0 +1,31 @@
+============================================
+       🏥 CANCER DIAGNOSIS REPORT 🏥        
+============================================
+
+🩺 Name: jaya
+📅 Age: 23
+🚬 Smoking Habit: Never
+⚖️ BMI: 34.0
+🩸 WBC Count: 5003 per µL
+🔬 PSA Level: 2.0 ng/mL
+🔬 CA-125 Level: 3.0 U/mL
+🩺 CRP Level: 2.0 mg/L
+📸 Tumor Detected: No
+
+============================================
+           🏥 DIAGNOSIS SUMMARY 🏥         
+============================================
+
+📊 Cancer Probability Results:
+   - Lung Cancer: 22.49% probability
+   - Breast Cancer: 23.39% probability
+   - Prostate Cancer: 14.31% probability
+   - Leukemia: 11.99% probability
+   - Ovarian Cancer: 10.29% probability
+   - Colon Cancer: 17.54% probability
+
+🔴 Most Likely Cancer: Breast Cancer (23.39%)
+
+============================================
+    🩺 Please consult a doctor for further analysis. 🩺
+============================================

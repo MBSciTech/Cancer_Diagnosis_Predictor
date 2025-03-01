@@ -1,0 +1,31 @@
+============================================
+       🏥 CANCER DIAGNOSIS REPORT 🏥        
+============================================
+
+🩺 Name: maya
+📅 Age: 34
+🚬 Smoking Habit: Never
+⚖️ BMI: 22.0
+🩸 WBC Count: 3400 per µL
+🔬 PSA Level: 4.0 ng/mL
+🔬 CA-125 Level: 40.0 U/mL
+🩺 CRP Level: 2.0 mg/L
+📸 Tumor Detected: Yes
+
+============================================
+           🏥 DIAGNOSIS SUMMARY 🏥         
+============================================
+
+📊 Cancer Probability Results:
+   - Lung Cancer: 29.98% probability
+   - Breast Cancer: 25.36% probability
+   - Prostate Cancer: 5.89% probability
+   - Leukemia: 20.39% probability
+   - Ovarian Cancer: 0.03% probability
+   - Colon Cancer: 18.35% probability
+
+🔴 Most Likely Cancer: Lung Cancer (29.98%)
+
+============================================
+    🩺 Please consult a doctor for further analysis. 🩺
+============================================

@@ -1,0 +1,29 @@
+============================================
+       🏥 CANCER DIAGNOSIS REPORT 🏥        
+============================================
+
+🩺 Name: rahul
+📅 Age: 45
+🚬 Smoking Habit: Occasionally
+⚖️ BMI: 24.0
+🩸 WBC Count: 25000 per µL
+🔬 PSA Level: 2.5 ng/mL
+🔬 CA-125 Level: 12.0 U/mL
+🩺 CRP Level: 8.0 mg/L
+📸 Tumor Detected: No
+
+============================================
+           🏥 DIAGNOSIS SUMMARY 🏥         
+============================================
+
+📊 Cancer Probability Results:
+   - Lung Cancer: 43.46% probability
+   - Prostate Cancer: 7.29% probability
+   - Leukemia: 23.18% probability
+   - Colon Cancer: 26.07% probability
+
+🔴 Most Likely Cancer: Lung Cancer (43.46%)
+
+============================================
+    🩺 Please consult a doctor for further analysis. 🩺
+============================================

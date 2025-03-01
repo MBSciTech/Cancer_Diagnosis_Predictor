@@ -1,0 +1,29 @@
+============================================
+       🏥 CANCER DIAGNOSIS REPORT 🏥        
+============================================
+
+🩺 Name: Maharshi
+📅 Age: 36
+🚬 Smoking Habit: Occasionally
+⚖️ BMI: 43.0
+🩸 WBC Count: 4999 per µL
+🔬 PSA Level: 3.0 ng/mL
+🔬 CA-125 Level: 32.0 U/mL
+🩺 CRP Level: 9.0 mg/L
+📸 Tumor Detected: No
+
+============================================
+           🏥 DIAGNOSIS SUMMARY 🏥         
+============================================
+
+📊 Cancer Probability Results:
+   - Lung Cancer: 40.03% probability
+   - Prostate Cancer: 7.39% probability
+   - Leukemia: 21.35% probability
+   - Colon Cancer: 31.23% probability
+
+🔴 Most Likely Cancer: Lung Cancer (40.03%)
+
+============================================
+    🩺 Please consult a doctor for further analysis. 🩺
+============================================

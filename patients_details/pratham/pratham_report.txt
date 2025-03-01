@@ -1,0 +1,29 @@
+============================================
+       🏥 CANCER DIAGNOSIS REPORT 🏥        
+============================================
+
+🩺 Name: pratham
+📅 Age: 33
+🚬 Smoking Habit: Regularly
+⚖️ BMI: 13.0
+🩸 WBC Count: 4533 per µL
+🔬 PSA Level: 43.0 ng/mL
+🔬 CA-125 Level: 33.0 U/mL
+🩺 CRP Level: 32.0 mg/L
+📸 Tumor Detected: No
+
+============================================
+           🏥 DIAGNOSIS SUMMARY 🏥         
+============================================
+
+📊 Cancer Probability Results:
+   - Lung Cancer: 100.00% probability
+   - Prostate Cancer: 0.00% probability
+   - Leukemia: 0.00% probability
+   - Colon Cancer: 0.00% probability
+
+🔴 Most Likely Cancer: Lung Cancer (100.00%)
+
+============================================
+    🩺 Please consult a doctor for further analysis. 🩺
+============================================

@@ -1,0 +1,12 @@
+Gender: Female
+Age: 45
+Smoking: 0
+BMI: 26
+WBC: 8000
+PSA: 1.0
+CA125: 45
+CRP: 12
+PLT: 240000
+RBC: 4.9
+HB: 13
+Tumor Detected: 1

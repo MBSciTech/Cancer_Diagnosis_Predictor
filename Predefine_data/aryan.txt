@@ -1,0 +1,12 @@
+Gender: Male
+Age: 58
+Smoking: 1
+BMI: 24
+WBC: 28000
+PSA: 3.0
+CA125: 18
+CRP: 9
+PLT: 500000
+RBC: 4.0
+HB: 11.5
+Tumor Detected: 0

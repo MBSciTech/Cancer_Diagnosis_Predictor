@@ -1,0 +1,31 @@
+============================================
+       🏥 CANCER DIAGNOSIS REPORT 🏥        
+============================================
+
+🩺 Name: nayraa
+📅 Age: 65
+🚬 Smoking Habit: Never
+⚖️ BMI: 30.0
+🩸 WBC Count: 11000 per µL
+🔬 PSA Level: 2.5 ng/mL
+🔬 CA-125 Level: 25.0 U/mL
+🩺 CRP Level: 8.0 mg/L
+📸 Tumor Detected: Yes
+
+============================================
+           🏥 DIAGNOSIS SUMMARY 🏥         
+============================================
+
+📊 Cancer Probability Results:
+   - Lung Cancer: 33.27% probability
+   - Breast Cancer: 28.15% probability
+   - Prostate Cancer: 22.99% probability
+   - Leukemia: 0.00% probability
+   - Ovarian Cancer: 0.50% probability
+   - Colon Cancer: 15.09% probability
+
+🔴 Most Likely Cancer: Lung Cancer (33.27%)
+
+============================================
+    🩺 Please consult a doctor for further analysis. 🩺
+============================================

@@ -1,0 +1,12 @@
+Gender: Male
+Age: 50
+Smoking: 2
+BMI: 34
+WBC: 12000
+PSA: 2.0
+CA125: 9
+CRP: 15
+PLT: 220000
+RBC: 5.1
+HB: 15
+Tumor Detected: 1
