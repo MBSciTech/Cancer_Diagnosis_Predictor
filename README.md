@@ -142,6 +142,3 @@ python main.py
 📜 This project is **open-source** and free to use.  
 
 ---
-
-### **🚀 Next Steps**  
-✅ Would you like me to generate the **actual `README.md` file** for you? 😊
