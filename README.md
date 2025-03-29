@@ -133,8 +133,8 @@ python main.py
 ---
 
 ## **📌 Contributors**  
-👨‍💻 **Project Developer:** *Your Name*  
-🏫 **College:** *Your College Name*  
+👨‍💻 **Project Developer:** *Maharshi Bhatt*  
+🏫 **College:** *LJ UNIVERSITY*  
 
 ---
 
